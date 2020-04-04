@@ -5,7 +5,6 @@
 #include <stack>
 #include <vector>
 using namespace std;
-//tnwjdgoqhwk
 
 int priority(int op)
 {
